@@ -1,6 +1,8 @@
-## Welcome to CVPaint
+# Welcome to CVPaint
 
-This is our Software Design project that utilizes OpenCV to track an object and uses it as a cursor to a draw art. It will use your computers camera to use OpenCV and you will need an object (Right now the object should be green) to begin drawing on the screen. The program has the capabilities of changing the color of your cursor and have and eraser to delete and miss guided/undintended strokes. You'll will have the function to save your creation afterwards!
+#### _By Noah D'Souza, Chase Joyner, & Rachel Won_
+
+Our Software Design project utilizes OpenCV to track an object and use it as a cursor to a draw art. It will use your computer's camera to track a green object to begin drawing on the screen. The program has the capabilities of changing the color of your cursor and have and eraser to delete and miss guided/undintended strokes. You'll will have the function to save your creation afterwards!
 
 ### Markdown
 
